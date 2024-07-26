@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics who enjoys documenting his learning journey
 - 🌱 I’m currently learning more about Data Analysis
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...LinkedIn
+- 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/wilson-lakra-639ab92a4/)
 - 😄 Lets connect on Quora and read my posts
 - ⚡ Fun fact: ...
 
