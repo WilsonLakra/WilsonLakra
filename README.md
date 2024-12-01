@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/wilson-lakra-639ab92a4/)
-- 😄 Lets connect on Quora and read my posts
+- 😄 Lets connect on Quora & Medium and read my posts
 - ⚡ Fun fact: ...
 
 <!---
